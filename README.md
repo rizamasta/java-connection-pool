@@ -1,8 +1,6 @@
 # Connection Pool With DBCP
 Simple way to connect multy db, with small ressources use.
 before try it, be sure that you have
-```
-```
 
 Number      | Libray(JAR)
 ----------- | ---------------------------------------------------------------------------------------------------------
